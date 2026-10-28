@@ -1,0 +1,26 @@
+{
+  "Black": {
+    "vertices": 454418,
+    "faces": 454578,
+    "non_manifold_edges": 0,
+    "volume_mm3": 25964.63722282727,
+    "connected_components": 1,
+    "stl_triangles": 909156
+  },
+  "White": {
+    "vertices": 267472,
+    "faces": 241554,
+    "non_manifold_edges": 0,
+    "volume_mm3": 4362.093130014474,
+    "connected_components": 51,
+    "stl_triangles": 534772
+  },
+  "dimensions_mm": [
+    71.9814682006836,
+    63.5,
+    71.18849182128906
+  ],
+  "three_mf_archive_verified": true,
+  "orca_sliced": false,
+  "physically_printed": false
+}
