@@ -1,0 +1,28 @@
+ROOTWOVEN OWL — FOUR-COLOR SNAPMAKER U1 PROJECT
+
+Open Rootwoven-Owl-U1-4-Color.3mf in Snapmaker Orca as a PROJECT.
+The surface colors are already painted. Do not convert to STL: STL loses paint.
+
+Filament/tool order:
+1 — Black: body, wings, feet, forehead, pupils
+2 — White or ivory: facial feathers and woven chest accents
+3 — Purple: eyes and ear tips
+4 — Orange: beak
+
+Starting setup: Snapmaker U1, four 0.4 mm nozzles, Generic PLA,
+0.16 mm layers, 3 walls, 15% gyroid, tree supports, 5 mm outer brim.
+Use the filament profiles appropriate for the actual spools you load.
+Original size retained: about 56.90 x 57.20 x 97.67 mm.
+
+The preview depicts the painted model itself. It is an interpretation of
+provided colors on the uploaded sculpt, rather than replacement geometry.
+
+Checks completed: original watertight mesh has no boundary/non-manifold
+edges or degenerate triangles. All 1,925,100 triangles retained; all four
+paint assignments survived loading and re-export with Snapmaker Orca 2.4.1.
+No physical test print has been performed. Review supports and sliced layers
+before sending the print to the U1.
+
+Slicing check: Snapmaker Orca successfully sliced the project and generated
+extrusion for all four tools. Estimate: 8h 45m and 103.69 g PLA including
+supports and prime tower; actual time and consumption can vary.

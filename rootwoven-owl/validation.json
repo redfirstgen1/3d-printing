@@ -1,0 +1,44 @@
+{
+  "vertices": 962394,
+  "triangles": 1925100,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "degenerate_triangles": 0,
+  "dimensions_mm": [
+    56.895999908447266,
+    57.20000076293945,
+    97.6719970703125
+  ],
+  "painted_triangle_counts": [
+    1730978,
+    162745,
+    26441,
+    4936
+  ],
+  "orca_import_export_verified": true,
+  "orca_slice_result": {
+    "error_string": "Success.",
+    "export_time": 0,
+    "plate_index": 1,
+    "prepare_time": 4,
+    "return_code": 0,
+    "sliced_plates": [
+      {
+        "id": 1,
+        "sliced_time": 106,
+        "sliced_time_with_cache": 15,
+        "triangle_count": 1925100,
+        "warning_message": ""
+      }
+    ]
+  },
+  "tools_used_zero_based": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "estimated_print_time": "8h 45m 28s",
+  "estimated_filament_g": 103.69,
+  "physically_test_printed": false
+}
